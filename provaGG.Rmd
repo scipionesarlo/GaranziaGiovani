@@ -1,0 +1,24 @@
+---
+title: "ProvaGG"
+author: "Scipione Sarlo"
+date: "07 settembre 2015"
+output: html_document
+---
+
+```{r, setOptions, message=FALSE}
+library(googleVis)
+op <- options(gvis.plot.tag="chart")
+```
+
+
+```{r}
+# loading data
+Regioni<-read.csv2("Data2Regioni.csv")
+str(Regioni)
+```
+
+```{r, echo=FALSE, results="asis"}
+# make Sankey plot
+Sank<-gvisSankey(Regioni, from="Residenza", to="Destinazione", weight = "valore", options=list(height=600, width=650, sankey="{link:{color:{fill:'lightblue'}}}"))
+print(Sank,"chart")
+```

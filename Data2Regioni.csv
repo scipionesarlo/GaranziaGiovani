@@ -1,0 +1,380 @@
+Residenza;Destinazione;valore
+piemonte;VAL D'AOSTA;214
+piemonte;LOMBARDIA;1377
+piemonte;TRENTO;69
+piemonte;VENETO;160
+piemonte;FRIULI VENEZIA GIULIA;71
+piemonte;LIGURIA;448
+piemonte;EMILIA ROMAGNA;312
+piemonte;TOSCANA;220
+piemonte;UMBRIA;113
+piemonte;MARCHE;81
+piemonte;LAZIO;208
+piemonte;ABRUZZO;60
+piemonte;MOLISE;25
+piemonte;CAMPANIA;93
+piemonte;PUGLIA;109
+piemonte;BASILICATA;41
+piemonte;CALABRIA;105
+piemonte;SICILIA;206
+piemonte;SARDEGNA;92
+val d'aosta;PIEMONTE;61
+val d'aosta;LOMBARDIA;17
+val d'aosta;TRENTO;7
+val d'aosta;VENETO;5
+val d'aosta;FRIULI VENEZIA GIULIA;3
+val d'aosta;LIGURIA;6
+val d'aosta;EMILIA ROMAGNA;5
+val d'aosta;TOSCANA;8
+val d'aosta;UMBRIA;1
+val d'aosta;MARCHE;2
+val d'aosta;LAZIO;9
+val d'aosta;ABRUZZO;1
+val d'aosta;MOLISE;1
+val d'aosta;CAMPANIA;1
+val d'aosta;PUGLIA;5
+val d'aosta;BASILICATA;1
+val d'aosta;CALABRIA;2
+val d'aosta;SICILIA;3
+val d'aosta;SARDEGNA;3
+lombardia;PIEMONTE;485
+lombardia;VAL D'AOSTA;32
+lombardia;TRENTO;100
+lombardia;VENETO;383
+lombardia;FRIULI VENEZIA GIULIA;66
+lombardia;LIGURIA;137
+lombardia;EMILIA ROMAGNA;756
+lombardia;TOSCANA;225
+lombardia;UMBRIA;140
+lombardia;MARCHE;89
+lombardia;LAZIO;188
+lombardia;ABRUZZO;42
+lombardia;MOLISE;16
+lombardia;CAMPANIA;114
+lombardia;PUGLIA;81
+lombardia;BASILICATA;23
+lombardia;CALABRIA;83
+lombardia;SICILIA;189
+lombardia;SARDEGNA;64
+trento;PIEMONTE;17
+trento;VAL D'AOSTA;2
+trento;LOMBARDIA;90
+trento;VENETO;140
+trento;FRIULI VENEZIA GIULIA;14
+trento;LIGURIA;8
+trento;EMILIA ROMAGNA;67
+trento;TOSCANA;29
+trento;UMBRIA;8
+trento;MARCHE;15
+trento;LAZIO;26
+trento;ABRUZZO;4
+trento;CAMPANIA;8
+trento;PUGLIA;11
+trento;BASILICATA;2
+trento;CALABRIA;4
+trento;SICILIA;10
+trento;SARDEGNA;3
+veneto;PIEMONTE;98
+veneto;VAL D'AOSTA;13
+veneto;LOMBARDIA;495
+veneto;TRENTO;216
+veneto;FRIULI VENEZIA GIULIA;398
+veneto;LIGURIA;25
+veneto;EMILIA ROMAGNA;524
+veneto;TOSCANA;106
+veneto;UMBRIA;64
+veneto;MARCHE;46
+veneto;LAZIO;137
+veneto;ABRUZZO;20
+veneto;MOLISE;8
+veneto;CAMPANIA;736
+veneto;PUGLIA;37
+veneto;BASILICATA;10
+veneto;CALABRIA;15
+veneto;SICILIA;64
+veneto;SARDEGNA;22
+friuli venezia giulia;PIEMONTE;49
+friuli venezia giulia;VAL D'AOSTA;10
+friuli venezia giulia;LOMBARDIA;121
+friuli venezia giulia;TRENTO;45
+friuli venezia giulia;VENETO;413
+friuli venezia giulia;LIGURIA;15
+friuli venezia giulia;EMILIA ROMAGNA;73
+friuli venezia giulia;TOSCANA;46
+friuli venezia giulia;UMBRIA;31
+friuli venezia giulia;MARCHE;19
+friuli venezia giulia;LAZIO;60
+friuli venezia giulia;ABRUZZO;8
+friuli venezia giulia;MOLISE;4
+friuli venezia giulia;CAMPANIA;32
+friuli venezia giulia;PUGLIA;17
+friuli venezia giulia;BASILICATA;5
+friuli venezia giulia;CALABRIA;7
+friuli venezia giulia;SICILIA;36
+friuli venezia giulia;SARDEGNA;16
+liguria;PIEMONTE;316
+liguria;VAL D'AOSTA;14
+liguria;LOMBARDIA;355
+liguria;TRENTO;26
+liguria;VENETO;51
+liguria;FRIULI VENEZIA GIULIA;24
+liguria;EMILIA ROMAGNA;105
+liguria;TOSCANA;270
+liguria;UMBRIA;72
+liguria;MARCHE;17
+liguria;LAZIO;75
+liguria;ABRUZZO;8
+liguria;MOLISE;5
+liguria;CAMPANIA;24
+liguria;PUGLIA;22
+liguria;BASILICATA;11
+liguria;CALABRIA;15
+liguria;SICILIA;36
+liguria;SARDEGNA;21
+emilia romagna;PIEMONTE;108
+emilia romagna;VAL D'AOSTA;23
+emilia romagna;LOMBARDIA;726
+emilia romagna;TRENTO;78
+emilia romagna;VENETO;282
+emilia romagna;FRIULI VENEZIA GIULIA;65
+emilia romagna;LIGURIA;62
+emilia romagna;TOSCANA;231
+emilia romagna;UMBRIA;118
+emilia romagna;MARCHE;268
+emilia romagna;LAZIO;181
+emilia romagna;ABRUZZO;71
+emilia romagna;MOLISE;33
+emilia romagna;CAMPANIA;159
+emilia romagna;PUGLIA;118
+emilia romagna;BASILICATA;52
+emilia romagna;CALABRIA;81
+emilia romagna;SICILIA;149
+emilia romagna;SARDEGNA;43
+toscana;PIEMONTE;103
+toscana;VAL D'AOSTA;11
+toscana;LOMBARDIA;345
+toscana;TRENTO;34
+toscana;VENETO;103
+toscana;FRIULI VENEZIA GIULIA;37
+toscana;LIGURIA;145
+toscana;EMILIA ROMAGNA;354
+toscana;UMBRIA;434
+toscana;MARCHE;104
+toscana;LAZIO;273
+toscana;ABRUZZO;43
+toscana;MOLISE;15
+toscana;CAMPANIA;139
+toscana;PUGLIA;44
+toscana;BASILICATA;31
+toscana;CALABRIA;33
+toscana;SICILIA;107
+toscana;SARDEGNA;28
+umbria;PIEMONTE;46
+umbria;VAL D'AOSTA;13
+umbria;LOMBARDIA;121
+umbria;TRENTO;24
+umbria;VENETO;37
+umbria;FRIULI VENEZIA GIULIA;20
+umbria;LIGURIA;21
+umbria;EMILIA ROMAGNA;137
+umbria;TOSCANA;228
+umbria;MARCHE;159
+umbria;LAZIO;316
+umbria;ABRUZZO;37
+umbria;MOLISE;8
+umbria;CAMPANIA;30
+umbria;PUGLIA;29
+umbria;BASILICATA;16
+umbria;CALABRIA;15
+umbria;SICILIA;22
+umbria;SARDEGNA;9
+marche;PIEMONTE;99
+marche;VAL D'AOSTA;17
+marche;LOMBARDIA;292
+marche;TRENTO;40
+marche;VENETO;110
+marche;FRIULI VENEZIA GIULIA;29
+marche;LIGURIA;28
+marche;EMILIA ROMAGNA;701
+marche;TOSCANA;184
+marche;UMBRIA;251
+marche;LAZIO;267
+marche;ABRUZZO;338
+marche;MOLISE;8
+marche;CAMPANIA;40
+marche;PUGLIA;29
+marche;BASILICATA;7
+marche;CALABRIA;7
+marche;SICILIA;31
+marche;SARDEGNA;16
+lazio;PIEMONTE;292
+lazio;VAL D'AOSTA;66
+lazio;LOMBARDIA;706
+lazio;TRENTO;158
+lazio;VENETO;250
+lazio;FRIULI VENEZIA GIULIA;147
+lazio;LIGURIA;136
+lazio;EMILIA ROMAGNA;492
+lazio;TOSCANA;756
+lazio;UMBRIA;825
+lazio;MARCHE;263
+lazio;ABRUZZO;500
+lazio;MOLISE;100
+lazio;CAMPANIA;289
+lazio;PUGLIA;119
+lazio;BASILICATA;62
+lazio;CALABRIA;100
+lazio;SICILIA;156
+lazio;SARDEGNA;97
+abruzzo;PIEMONTE;219
+abruzzo;VAL D'AOSTA;63
+abruzzo;LOMBARDIA;588
+abruzzo;TRENTO;107
+abruzzo;VENETO;219
+abruzzo;FRIULI VENEZIA GIULIA;103
+abruzzo;LIGURIA;93
+abruzzo;EMILIA ROMAGNA;726
+abruzzo;TOSCANA;375
+abruzzo;UMBRIA;269
+abruzzo;MARCHE;1135
+abruzzo;LAZIO;1105
+abruzzo;MOLISE;289
+abruzzo;CAMPANIA;106
+abruzzo;PUGLIA;125
+abruzzo;BASILICATA;48
+abruzzo;CALABRIA;29
+abruzzo;SICILIA;59
+abruzzo;SARDEGNA;53
+molise;PIEMONTE;89
+molise;VAL D'AOSTA;24
+molise;LOMBARDIA;178
+molise;TRENTO;37
+molise;VENETO;78
+molise;FRIULI VENEZIA GIULIA;32
+molise;LIGURIA;32
+molise;EMILIA ROMAGNA;295
+molise;TOSCANA;157
+molise;UMBRIA;112
+molise;MARCHE;160
+molise;LAZIO;399
+molise;ABRUZZO;789
+molise;CAMPANIA;124
+molise;PUGLIA;95
+molise;BASILICATA;18
+molise;CALABRIA;15
+molise;SICILIA;22
+molise;SARDEGNA;19
+campania;PIEMONTE;1248
+campania;VAL D'AOSTA;319
+campania;LOMBARDIA;3126
+campania;TRENTO;482
+campania;VENETO;1097
+campania;FRIULI VENEZIA GIULIA;616
+campania;LIGURIA;577
+campania;EMILIA ROMAGNA;2767
+campania;TOSCANA;2670
+campania;UMBRIA;950
+campania;MARCHE;753
+campania;LAZIO;4939
+campania;ABRUZZO;854
+campania;MOLISE;722
+campania;PUGLIA;704
+campania;BASILICATA;647
+campania;CALABRIA;409
+campania;SICILIA;367
+campania;SARDEGNA;290
+puglia;PIEMONTE;1323
+puglia;VAL D'AOSTA;250
+puglia;LOMBARDIA;2687
+puglia;TRENTO;472
+puglia;VENETO;988
+puglia;FRIULI VENEZIA GIULIA;465
+puglia;LIGURIA;372
+puglia;EMILIA ROMAGNA;2717
+puglia;TOSCANA;1332
+puglia;UMBRIA;656
+puglia;MARCHE;824
+puglia;LAZIO;2169
+puglia;ABRUZZO;1250
+puglia;MOLISE;706
+puglia;CAMPANIA;491
+puglia;BASILICATA;1044
+puglia;CALABRIA;243
+puglia;SICILIA;241
+puglia;SARDEGNA;197
+basilicata;PIEMONTE;232
+basilicata;VAL D'AOSTA;43
+basilicata;LOMBARDIA;424
+basilicata;TRENTO;59
+basilicata;VENETO;146
+basilicata;FRIULI VENEZIA GIULIA;64
+basilicata;LIGURIA;55
+basilicata;EMILIA ROMAGNA;557
+basilicata;TOSCANA;385
+basilicata;UMBRIA;139
+basilicata;MARCHE;87
+basilicata;LAZIO;567
+basilicata;ABRUZZO;165
+basilicata;MOLISE;45
+basilicata;CAMPANIA;282
+basilicata;PUGLIA;480
+basilicata;CALABRIA;100
+basilicata;SICILIA;41
+basilicata;SARDEGNA;33
+calabria;PIEMONTE;1298
+calabria;VAL D'AOSTA;310
+calabria;LOMBARDIA;2758
+calabria;TRENTO;367
+calabria;VENETO;772
+calabria;FRIULI VENEZIA GIULIA;372
+calabria;LIGURIA;458
+calabria;EMILIA ROMAGNA;1963
+calabria;TOSCANA;1581
+calabria;UMBRIA;724
+calabria;MARCHE;333
+calabria;LAZIO;2648
+calabria;ABRUZZO;348
+calabria;MOLISE;166
+calabria;CAMPANIA;565
+calabria;PUGLIA;644
+calabria;BASILICATA;621
+calabria;SICILIA;950
+calabria;SARDEGNA;242
+sicilia;PIEMONTE;2083
+sicilia;VAL D'AOSTA;470
+sicilia;LOMBARDIA;4176
+sicilia;TRENTO;637
+sicilia;VENETO;1450
+sicilia;FRIULI VENEZIA GIULIA;724
+sicilia;LIGURIA;697
+sicilia;EMILIA ROMAGNA;2852
+sicilia;TOSCANA;2299
+sicilia;UMBRIA;665
+sicilia;MARCHE;481
+sicilia;LAZIO;2785
+sicilia;ABRUZZO;463
+sicilia;MOLISE;252
+sicilia;CAMPANIA;475
+sicilia;PUGLIA;573
+sicilia;BASILICATA;285
+sicilia;CALABRIA;816
+sicilia;SARDEGNA;623
+sardegna;PIEMONTE;267
+sardegna;VAL D'AOSTA;44
+sardegna;LOMBARDIA;430
+sardegna;TRENTO;56
+sardegna;VENETO;186
+sardegna;FRIULI VENEZIA GIULIA;58
+sardegna;LIGURIA;48
+sardegna;EMILIA ROMAGNA;287
+sardegna;TOSCANA;246
+sardegna;UMBRIA;86
+sardegna;MARCHE;48
+sardegna;LAZIO;283
+sardegna;ABRUZZO;33
+sardegna;MOLISE;10
+sardegna;CAMPANIA;30
+sardegna;PUGLIA;35
+sardegna;BASILICATA;12
+sardegna;CALABRIA;11
+sardegna;SICILIA;39
